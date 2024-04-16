@@ -1,9 +1,10 @@
  <details>
   <summary><h1>▶ <img src="https://media.discordapp.net/attachments/873930625852264478/1121374787390935090/347257685_231153696350928_6760447550098856713_n.png?ex=662a25a7&is=6617b0a7&hm=485614037c1538e78c78ae9aec91754b74798548b1d530b71a4bc72c6d96450b&=&format=webp&quality=lossless&width=316&height=437" width="100px" >⭐Tổng quan Moderm(Nhấp vào đi anh)</h1></summary>
 
-![alt text](image45.png)
-![alt text](image46.png)
-![alt text](image47.png)
+![Hình ảnh minh họa](Pic/image45.png)
+![Hình ảnh minh họa](Pic/image46.png)
+![Hình ảnh minh họa](Pic/image47.png)
+
 
 
 
