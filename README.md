@@ -5,7 +5,12 @@
 <details>
   <summary><h2>AP AX3000C(Nhấp vào đi anh)</h2></summary>
 
-![alt text](D:/BDG_EDU/BDG__EDU/Pic/image.png)
+
+![Hình ảnh minh họa](Pic/image.png)
+
+
+
+
 
 
 
