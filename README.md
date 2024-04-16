@@ -5,7 +5,8 @@
 <details>
   <summary><h2>AP AX3000C(Nhấp vào đi anh)</h2></summary>
 
-![alt text](image.png)
+![alt text](D:/BDG_EDU/BDG__EDU/Pic/image.png)
+
 
 
 **Trước khi cấu hình thì update Firmware mới nhất cho AP**
@@ -16,13 +17,14 @@
 <details>
 <summary><h3>Mô hình G97GR3-AP(Nhấp vào đi anh)</h3></summary>
 
-![alt text](image-1.png)
-![alt text](image-2.png)
-![alt text](image-3.png)
-![alt text](image-4.png)
-![alt text](image-5.png)
-![alt text](image-6.png)
-![alt text](image-9.png)
+![alt text](D:/BDG_EDU/BDG__EDU/Pic/image-1.png)
+![alt text](D:/BDG_EDU/BDG__EDU/Pic/image-2.png)
+![alt text](D:/BDG_EDU/BDG__EDU/Pic/image-3.png)
+![alt text](D:/BDG_EDU/BDG__EDU/Pic/image-4.png)
+![alt text](D:/BDG_EDU/BDG__EDU/Pic/image-5.png)
+![alt text](D:/BDG_EDU/BDG__EDU/Pic/image-6.png)
+![alt text](D:/BDG_EDU/BDG__EDU/Pic/image-9.png)
+
 
 
 
