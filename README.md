@@ -239,6 +239,66 @@
 <details>
   <summary><h2>EdgeRouter X (Nhấp vào đi anh)</h2></summary>
 
+- Laptop + pord 2 
+- Nhớ đặt ip tĩnh;192.168.1.xxx
+
+![Hình ảnh minh họa](Pic/image-77.png)
+![Hình ảnh minh họa](Pic/image-78.png)
+![Hình ảnh minh họa](Pic/image-79.png)
+![Hình ảnh minh họa](Pic/image-80.png)
+![Hình ảnh minh họa](Pic/image-81.png)
+
+- Cấu hình xong tắt ip tĩnh
+- Cấu hình load balancing:
+![Hình ảnh minh họa](Pic/image-82.png)
+![Hình ảnh minh họa](Pic/image-83.png)
+![Hình ảnh minh họa](Pic/image-84.png)
+
+- Tính năng này nghĩa là 1 line bị đứt thì Router sẽ chạy line còn lại( nghĩa là k load đc 2 line)
+- Vào dashbord kiểm tra
+![Hình ảnh minh họa](Pic/image-85.png)
+
+- Cấu hình IPTV:
+
+
+
+
+</details>	
+
+
+
+<details>
+  <summary><h2>AC1000F</h2></summary>
+
+![Hình ảnh minh họa](Pic/image-67.png)
+![Hình ảnh minh họa](Pic/image-68.png)
+![Hình ảnh minh họa](Pic/image-69.png)
+
+
+- 20 với 2.4
+- 40 với 5.0
+![Hình ảnh minh họa](Pic/image-70.png)
+![Hình ảnh minh họa](Pic/image-71.png)
+![Hình ảnh minh họa](Pic/image-72.png)
+
+
+
+
+</details>	
+
+
+<details>
+  <summary><h2> ARUBA INSTANT ON AP11</h2></summary>
+
+![Hình ảnh minh họa](Pic/image-86.png)
+- Dây xanh từ modem 
+- Dây trắng từ aruba
+![Hình ảnh minh họa](Pic/image-88.png)
+![Hình ảnh minh họa](Pic/image-87.png)
+![Hình ảnh minh họa](Pic/image-89.png)
+![Hình ảnh minh họa](Pic/image-90.png)
+![Hình ảnh minh họa](Pic/image-91.png)
+![Hình ảnh minh họa](Pic/image-92.png)
 
 
 </details>	
@@ -268,7 +328,43 @@
 ![Hình ảnh minh họa](Pic/image-22.png)
 
 
-
 </details> 
 
+<details>
+  <summary><h2>Wireshark</h2></summary>
+
+- Link tải: 
+	+  <a href="https://drive.google.com/file/d/1MB_4SMiYgDr9RJzAJPVTkLy5sgnDNK7o/view?usp=sharing" target="_blank">update Firmware mới nhất cho AP</a>.
+
+
+![Hình ảnh minh họa](Pic/image-63.png)
+![Hình ảnh minh họa](Pic/image-64.png)
+![Hình ảnh minh họa](Pic/image-65.png)
+
+
+- Nhập lệnh : ip.addr == 192.168.xxx.xx
+![Hình ảnh minh họa](Pic/image-66.png)
+
+
+
+
+
+</details>
+
+
+
+details>
+  <summary><h2>VLC</h2></summary>
+
+- `udp://@225.1.2.247:30120`
+
+![Hình ảnh minh họa](Pic/image-73.png)
+![Hình ảnh minh họa](Pic/image-75.png)
+![Hình ảnh minh họa](Pic/image-76.png)
+
+
+
+
+
+</details>
 </details>
