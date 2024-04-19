@@ -1,3 +1,70 @@
+ 
+  <details>
+  <summary><h1>▶ <img src="https://media.discordapp.net/attachments/873930625852264478/1121374787390935090/347257685_231153696350928_6760447550098856713_n.png?ex=662a25a7&is=6617b0a7&hm=485614037c1538e78c78ae9aec91754b74798548b1d530b71a4bc72c6d96450b&=&format=webp&quality=lossless&width=316&height=437" width="100px" >⭐1 số lỗi cơ bản trên modem/Box</h1></summary>
+
+
+
+  
+<details>
+  <summary><h2>Modem</h2></summary>
+
+- Trước khi check thì kiểm tra gói cước nhà khg
+- Ứng với mỗi gói sẽ phù hợp từng mô hình
+
+![Hình ảnh minh họa](Pic/image-63.png)
+- Với mạng lag/chậm, chập chờn:
+  + Kiểm tra vị trí khách hàng sử dụng:
+    + Nếu đo sóng thấy xa thì care khg mua AP
+  + Dịch vụ nào chậm:
+    + Nếu kiểm tra modem ok , các dịch vụ khác ok .
+    + Chỉ có quốc tế/ game /live stream lag thì gỡ Nat , care khg lên wifi 6 để phù hơp
+    + Nếu nhiều thiết bị thì care nâng lên gói META
+  + Gói cước / thiết bị có phù hợp với nhu cầu khách hàng hay không
+    + Check cái này trong mục modem
+  + Kiểm tra modem khg có lỗi hay không :
+    + Đổi tên wifi /pass , rút hết dây lan của khg 
+    + Lấy 1 điện thoại vào check ping `192.18.1.1` mà rớt gói hoặc ping lên mấy trăm 
+    + thì đổi modem khác rồi đo lại
+  + Với trường hợp mà khg dùng mạng chậm:
+    + ping tới trang khách hàng dùng , ví dụ `youtube.com` mà rớt gói , ping cao
+    + Báo SCC hỗ trợ
+  
+
+
+
+
+
+</details>
+
+
+<details>
+<summary><h2>Box</h2></summary>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</details>
+</details>
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
  <details>
   <summary><h1>▶ <img src="https://media.discordapp.net/attachments/873930625852264478/1121374787390935090/347257685_231153696350928_6760447550098856713_n.png?ex=662a25a7&is=6617b0a7&hm=485614037c1538e78c78ae9aec91754b74798548b1d530b71a4bc72c6d96450b&=&format=webp&quality=lossless&width=316&height=437" width="100px" >⭐Tổng quan Moderm(Nhấp vào đi anh)</h1></summary>
 
