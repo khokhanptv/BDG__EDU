@@ -1,6 +1,6 @@
  
   <details>
-  <summary><h1>▶ <img src="https://media.discordapp.net/attachments/873930625852264478/1121374787390935090/347257685_231153696350928_6760447550098856713_n.png?ex=662a25a7&is=6617b0a7&hm=485614037c1538e78c78ae9aec91754b74798548b1d530b71a4bc72c6d96450b&=&format=webp&quality=lossless&width=316&height=437" width="100px" >⭐1 số lỗi cơ bản trên modem/Box</h1></summary>
+  <summary><h1>▶ <img src="https://cdn.discordapp.com/attachments/873930625852264478/1141664506938929172/367429896_739671061503007_2731119256675237562_n.png?ex=662d6dad&is=662c1c2d&hm=5b2350e6e71e8a57797cdd5387db3438abb01755621fbbb09f75580a25e0aeb5&" width="100px" >⭐1 số lỗi cơ bản trên modem/Box</h1></summary>
 
 
 
@@ -66,7 +66,15 @@
  
  
  <details>
-  <summary><h1>▶ <img src="https://media.discordapp.net/attachments/873930625852264478/1121374787390935090/347257685_231153696350928_6760447550098856713_n.png?ex=662a25a7&is=6617b0a7&hm=485614037c1538e78c78ae9aec91754b74798548b1d530b71a4bc72c6d96450b&=&format=webp&quality=lossless&width=316&height=437" width="100px" >⭐Tổng quan Moderm(Nhấp vào đi anh)</h1></summary>
+  <summary><h1>▶ <img src="https://media.discordapp.net/attachments/873930625852264478/1121374787390935090/347257685_231153696350928_6760447550098856713_n.png?ex=662a25a7&is=6617b0a7&hm=485614037c1538e78c78ae9aec91754b74798548b1d530b71a4bc72c6d96450b&=&format=webp&quality=lossless&width=316&height=437" width="100px" >⭐Tổng quan Moderm</h1></summary>
+
+
+![Hình ảnh minh họa](Pic/image-104.png)
+![Hình ảnh minh họa](Pic/image-105.png)
+![Hình ảnh minh họa](Pic/image-106.png)
+![Hình ảnh minh họa](Pic/image-107.png)
+![Hình ảnh minh họa](Pic/image-108.png)
+
 
 ![Hình ảnh minh họa](Pic/image-45.png)
 ![Hình ảnh minh họa](Pic/image-46.png)
@@ -94,10 +102,10 @@
 
 
 <details>
-  <summary><h1>▶ <img src="https://media.discordapp.net/attachments/873930625852264478/1141665337125912606/368070966_3371779193073070_2050944760907663084_n.png?ex=662a22b3&is=6617adb3&hm=13cac8d20810a33ce9b7e41a2a451e4afd0add4b6128ddc81141f14fe05b149c&=&format=webp&quality=lossless&width=508&height=903" width="90px" >⭐Moderm(Nhấp vào đi anh)</h1></summary>
+  <summary><h1>▶ <img src="https://media.discordapp.net/attachments/873930625852264478/1141665337125912606/368070966_3371779193073070_2050944760907663084_n.png?ex=662a22b3&is=6617adb3&hm=13cac8d20810a33ce9b7e41a2a451e4afd0add4b6128ddc81141f14fe05b149c&=&format=webp&quality=lossless&width=508&height=903" width="90px" >⭐Moderm</h1></summary>
 
 <details>
-  <summary><h2>AP AX3000C(Nhấp vào đi anh)</h2></summary>
+  <summary><h2>AP AX3000C</h2></summary>
 
 
 ![Hình ảnh minh họa](Pic/image.png)
@@ -114,7 +122,7 @@
 
 
 <details>
-<summary><h3>Mô hình G97GR3-AP(Nhấp vào đi anh)</h3></summary>
+<summary><h3>Mô hình G97GR3-AP</h3></summary>
 
 ![alt text](Pic/image-1.png)
 ![alt text](Pic/image-2.png)
@@ -130,7 +138,7 @@
 </details>	
 
 <details>
-<summary><h3>Mô hình G97CM – AX3000C(Nhấp vào đi anh)</h3></summary>
+<summary><h3>Mô hình G97CM – AX3000C</h3></summary>
 
 ![Hình ảnh minh họa](Pic/image-10.png)
 ![Hình ảnh minh họa](Pic/image-11.png)
@@ -158,7 +166,7 @@
 </details>	
 
 <details>
-  <summary><h2>AP AX1800AZ(Nhấp vào đi anh)</h2></summary>
+  <summary><h2>AP AX1800AZ</h2></summary>
 
 ![Hình ảnh minh họa](Pic/image-23.png)
 ![Hình ảnh minh họa](Pic/image-24.png)
@@ -184,7 +192,7 @@
 	
 </details>
 <details>
-  <summary><h2>AP AX1500C(Nhấp vào đi anh)</h2></summary
+  <summary><h2>AP AX1500C</h2></summary
 
 ![Hình ảnh minh họa](Pic/image-36.png)
 ![Hình ảnh minh họa](Pic/image-37.png)
@@ -205,7 +213,7 @@
 </details>
 
 <details>
-  <summary><h2>Vigor 2926>>300b/(Nhấp vào đi anh)</h2></summary>
+  <summary><h2>Vigor 2926>>300b)</h2></summary>
 
 ![Hình ảnh minh họa](Pic/image-48.png)
 ![Hình ảnh minh họa](Pic/image-49.png)
@@ -227,17 +235,41 @@
 ![Hình ảnh minh họa](Pic/image-60.png)
 
 **GIỚI HẠN BĂNG THÔNG CHO QUÁN NÉT**
+- **Bandwidth Limit:**
+- Thường quán net tầm 15~20M
+  -  Default Limit:
 ![Hình ảnh minh họa](Pic/image-61.png)
-- Thông thường để 30Mbps
-- Chú ý set ip tĩnh cho máy , rồi mới bật chức năng giới hạn băng thông lên cho từng IP hoặc dãy IP cần giới hạn
-![Hình ảnh minh họa](Pic/image-62.png)
+  - Limitation Lish:(Độ ưu tiên cao hơn Default Limit )
+    - Theo iprange:
+![Hình ảnh minh họa](Pic/image-93.png)
+  + Each : Mỗi máy
+  + Share: Chia đêu ,VD có 10 máy giới hạn thi 50M  chia đều , mỗi máy 5M
+  + Theo ip object:
+![Hình ảnh minh họa](Pic/image-97.png)
+![Hình ảnh minh họa](Pic/image-95.png)
+![Hình ảnh minh họa](Pic/image-96.png)
 
+  - Nếu có nhiều IP thì chọn Group:
+![Hình ảnh minh họa](Pic/image-98.png)
+![Hình ảnh minh họa](Pic/image-99.png)
+![Hình ảnh minh họa](Pic/image-100.png)
+
+  - Giới hạn băng thông theo ss:
+![Hình ảnh minh họa](Pic/image-103.png)
+  **Session Limit :**
+   + Thường chọn 300 Session
+![Hình ảnh minh họa](Pic/image-101.png)
+  - Kiểm tra lưu lượng
+![Hình ảnh minh họa](Pic/image-102.png)
+
+  
+ 
 
 </details>
 
 
 <details>
-  <summary><h2>EdgeRouter X (Nhấp vào đi anh)</h2></summary>
+  <summary><h2>EdgeRouter X </h2></summary>
 
 - Laptop + pord 2 
 - Nhớ đặt ip tĩnh;192.168.1.xxx
@@ -317,7 +349,7 @@
 
 
 <details>
-  <summary><h1>▶ <img src="https://cdn.discordapp.com/attachments/873930625852264478/1089866071273639956/337236545_1645152432590011_7156356481797820595_n.png?ex=662f7d60&is=661d0860&hm=e8f183b088c6dccdd6f31f38852a6129ef437a0392c338f8a79af5fdf1409314&" width="110px" >⭐1 số tools(Nhấp vào đi anh)</h1></summary>
+  <summary><h1>▶ <img src="https://cdn.discordapp.com/attachments/873930625852264478/1089866071273639956/337236545_1645152432590011_7156356481797820595_n.png?ex=662f7d60&is=661d0860&hm=e8f183b088c6dccdd6f31f38852a6129ef437a0392c338f8a79af5fdf1409314&" width="110px" >⭐1 số tools</h1></summary>
 
 <details>
   <summary><h2>Network Analyzer</h2></summary>
