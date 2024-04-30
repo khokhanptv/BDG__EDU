@@ -11,7 +11,7 @@
 - Trước khi check thì kiểm tra gói cước nhà khg
 - Ứng với mỗi gói sẽ phù hợp từng mô hình
 
-![Hình ảnh minh họa](Pic/image-63.png)
+
 - Với mạng lag/chậm, chập chờn:
   + Kiểm tra vị trí khách hàng sử dụng:
     + Nếu đo sóng thấy xa thì care khg mua AP
@@ -66,7 +66,7 @@
  
  
  <details>
-  <summary><h1>▶ <img src="https://www.vietnamworks.com/hrinsider/wp-content/uploads/2023/12/hinh-de-thuong-don-gian-028.jpg" width="100px" >⭐Tổng quan Moderm</h1></summary>
+  <summary><h1>▶ <img src="https://www.vietnamworks.com/hrinsider/wp-content/uploads/2023/12/hinh-de-thuong-don-gian-028.jpg" width="130px" >⭐Tổng quan Moderm</h1></summary>
 
 
 ![Hình ảnh minh họa](Pic/image-104.png)
@@ -87,6 +87,7 @@
 
  </details>
 
+ </details>
 
 
 
@@ -99,8 +100,7 @@
 
 
 
-
-
+ 
 <details>
   <summary><h1>▶ <img src="https://www.vietnamworks.com/hrinsider/wp-content/uploads/2023/12/hinh-de-thuong-don-gian-034.jpg" width="90px" >⭐Moderm</h1></summary>
 
@@ -419,7 +419,7 @@
 
 </details>
 </details>
-
+</details>
 
 
 
@@ -429,7 +429,7 @@
 
 
 <details>
-  <summary><h1>▶ <img src="https://www.vietnamworks.com/hrinsider/wp-content/uploads/2023/12/hinh-de-thuong-don-gian-024.jpg" width="110px" >⭐1 số tools</h1></summary>
+  <summary><h1>▶ <img src="https://www.vietnamworks.com/hrinsider/wp-content/uploads/2023/12/hinh-de-thuong-don-gian-024.jpg" width="90px" >⭐1 số tools</h1></summary>
 
 <details>
   <summary><h2>Network Analyzer</h2></summary>
@@ -458,14 +458,10 @@
 ![Hình ảnh minh họa](Pic/image-66.png)
 
 
-
-
-
 </details>
 
 
-
-details>
+<details>
   <summary><h2>VLC</h2></summary>
 
 - `udp://@225.1.2.247:30120`
@@ -478,5 +474,6 @@ details>
 
 
 
+</details>
 </details>
 </details>
