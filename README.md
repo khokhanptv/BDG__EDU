@@ -1,6 +1,6 @@
  
   <details>
-  <summary><h1>▶ <img src="https://cdn.discordapp.com/attachments/873930625852264478/1141664506938929172/367429896_739671061503007_2731119256675237562_n.png?ex=662d6dad&is=662c1c2d&hm=5b2350e6e71e8a57797cdd5387db3438abb01755621fbbb09f75580a25e0aeb5&" width="100px" >⭐1 số lỗi cơ bản trên modem/Box</h1></summary>
+  <summary><h1>▶ <img src="https://www.vietnamworks.com/hrinsider/wp-content/uploads/2023/12/anh-cute-001-1-1.jpg" width="100px" >⭐1 số lỗi cơ bản trên modem/Box</h1></summary>
 
 
 
@@ -66,7 +66,7 @@
  
  
  <details>
-  <summary><h1>▶ <img src="https://media.discordapp.net/attachments/873930625852264478/1121374787390935090/347257685_231153696350928_6760447550098856713_n.png?ex=662a25a7&is=6617b0a7&hm=485614037c1538e78c78ae9aec91754b74798548b1d530b71a4bc72c6d96450b&=&format=webp&quality=lossless&width=316&height=437" width="100px" >⭐Tổng quan Moderm</h1></summary>
+  <summary><h1>▶ <img src="https://www.vietnamworks.com/hrinsider/wp-content/uploads/2023/12/hinh-de-thuong-don-gian-028.jpg" width="100px" >⭐Tổng quan Moderm</h1></summary>
 
 
 ![Hình ảnh minh họa](Pic/image-104.png)
@@ -102,7 +102,7 @@
 
 
 <details>
-  <summary><h1>▶ <img src="https://media.discordapp.net/attachments/873930625852264478/1141665337125912606/368070966_3371779193073070_2050944760907663084_n.png?ex=662a22b3&is=6617adb3&hm=13cac8d20810a33ce9b7e41a2a451e4afd0add4b6128ddc81141f14fe05b149c&=&format=webp&quality=lossless&width=508&height=903" width="90px" >⭐Moderm</h1></summary>
+  <summary><h1>▶ <img src="https://www.vietnamworks.com/hrinsider/wp-content/uploads/2023/12/hinh-de-thuong-don-gian-034.jpg" width="90px" >⭐Moderm</h1></summary>
 
 <details>
   <summary><h2>AP AX3000C</h2></summary>
@@ -335,6 +335,86 @@
 
 </details>	
 
+<details>
+  <summary><h2> AC1200Z</h2></summary>
+
+![Hình ảnh minh họa](Pic/image-110.png)
+![Hình ảnh minh họa](Pic/image-111.png)
+![Hình ảnh minh họa](Pic/image-112.png)
+
+
+**Mô hình controller(router)**
+- LAN modem chính tới WAN AC1200Z
+![Hình ảnh minh họa](Pic/image-113.png)
+![Hình ảnh minh họa](Pic/image-114.png)
+![Hình ảnh minh họa](Pic/image-115.png)
+
+
+**Mô hình PPOE(ac1200Z làm modem chính)**
+- Vẫn giữ nguyên word mode
+![Hình ảnh minh họa](Pic/image-116.png)
+![Hình ảnh minh họa](Pic/image-117.png)
+![Hình ảnh minh họa](Pic/image-118.png)
+![Hình ảnh minh họa](Pic/image-119.png)
+
+
+**Mô hình controller(Bridge)**
+1. ![Hình ảnh minh họa](Pic/image-120.png)
+2. ![Hình ảnh minh họa](Pic/image-121.png)
+3. ![Hình ảnh minh họa](Pic/image-122.png)
+4. ![Hình ảnh minh họa](Pic/image-123.png)
+5. ![Hình ảnh minh họa](Pic/image-124.png)
+6. ![Hình ảnh minh họa](Pic/image-125.png)
+![Hình ảnh minh họa](Pic/image-126.png)
+
+
+**Mô hình MESH**
+
+![Hình ảnh minh họa](Pic/image-127.png)
+![Hình ảnh minh họa](Pic/image-128.png)
+![Hình ảnh minh họa](Pic/image-129.png)
+![Hình ảnh minh họa](Pic/image-130.png)
+
+
+
+
+</details>	
+
+<details>
+  <summary><h2>AC1200H</h2></summary>
+
+![Hình ảnh minh họa](Pic/image-131.png)
+![Hình ảnh minh họa](Pic/image-132.png)
+![Hình ảnh minh họa](Pic/image-133.png)
+![Hình ảnh minh họa](Pic/image-134.png)
+![Hình ảnh minh họa](Pic/image-135.png)
+![Hình ảnh minh họa](Pic/image-136.png)
+![Hình ảnh minh họa](Pic/image-137.png)
+![Hình ảnh minh họa](Pic/image-138.png)
+![Hình ảnh minh họa](Pic/image-139.png)
+
+-----------------------------
+![Hình ảnh minh họa](Pic/image-140.png)
+![Hình ảnh minh họa](Pic/image-141.png)
+![Hình ảnh minh họa](Pic/image-142.png)
+
+
+----------------------------
+![Hình ảnh minh họa](Pic/image-143.png)
+![Hình ảnh minh họa](Pic/image-144.png)
+
+
+---------------------------
+![Hình ảnh minh họa](Pic/image-145.png)
+![Hình ảnh minh họa](Pic/image-146.png)
+![Hình ảnh minh họa](Pic/image-147.png)
+
+---------------------------
+![Hình ảnh minh họa](Pic/image-148.png)
+
+
+</details>	
+
 </details>	
 
 </details>
@@ -349,7 +429,7 @@
 
 
 <details>
-  <summary><h1>▶ <img src="https://cdn.discordapp.com/attachments/873930625852264478/1089866071273639956/337236545_1645152432590011_7156356481797820595_n.png?ex=662f7d60&is=661d0860&hm=e8f183b088c6dccdd6f31f38852a6129ef437a0392c338f8a79af5fdf1409314&" width="110px" >⭐1 số tools</h1></summary>
+  <summary><h1>▶ <img src="https://www.vietnamworks.com/hrinsider/wp-content/uploads/2023/12/hinh-de-thuong-don-gian-024.jpg" width="110px" >⭐1 số tools</h1></summary>
 
 <details>
   <summary><h2>Network Analyzer</h2></summary>
