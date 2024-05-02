@@ -1,5 +1,5 @@
 <details>
-  <summary><h1>▶ <img src="https://didongviet.vn/dchannel/wp-content/uploads/2023/09/hinh-nen-dien-thoai-cute-didongviet-14.jpg" width="80px" >⭐CAMERA FPT 2023</h1></summary>
+  <summary><h1>▶ <img src="https://didongviet.vn/dchannel/wp-content/uploads/2023/09/hinh-nen-dien-thoai-cute-didongviet-77.jpg" width="80px" >⭐CAMERA FPT 2023</h1></summary>
 
 **AE đọc tại đường link**
 
@@ -558,6 +558,8 @@ CC: tuanna41@fpt.com; phuongnam.anhth@fpt.net
 
 <details>
   <summary><h2>Wireshark</h2></summary>
+
+**Mục đích fix lỗi game lag**
 
 - Link tải: 
 	+  <a href="https://drive.google.com/file/d/1MB_4SMiYgDr9RJzAJPVTkLy5sgnDNK7o/view?usp=sharing" target="_blank">update Firmware mới nhất cho AP</a>.
