@@ -1,4 +1,96 @@
- 
+<details>
+  <summary><h1>▶ <img src="https://didongviet.vn/dchannel/wp-content/uploads/2023/09/hinh-nen-dien-thoai-cute-didongviet-14.jpg" width="80px" >⭐CAMERA FPT 2023</h1></summary>
+
+**AE đọc tại đường link**
+
++  <a href="https://drive.google.com/file/d/1mZBd8P0x2LOWHTKZYbGT5CybzEuUGkmG/view?usp=sharing" target="_blank">FPT CAMERA</a>.
+
+
+
+
+
+</details>
+
+
+<details>
+  <summary><h1>▶ <img src="https://didongviet.vn/dchannel/wp-content/uploads/2023/09/hinh-nen-dien-thoai-cute-didongviet-14.jpg" width="80px" >⭐FPT PLAY BOX</h1></summary>
+
+**LIÊN KẾT TÀI KHOẢN FPT PLAY**
+
++  <a href="https://docs.google.com/presentation/d/1PwtLQzV0dgBr-Bu0Lk5oizVL-3cL75cc/edit?usp=drive_web&ouid=112033577158894345062&rtpof=true" target="_blank">FPT PLAY BOX</a>.
+
+
+
+
+
+</details>
+
+
+
+
+
+
+
+
+<details>
+  <summary><h1>▶ <img src="https://didongviet.vn/dchannel/wp-content/uploads/2023/09/hinh-nen-dien-thoai-cute-didongviet-78.jpg" width="80px" >⭐Tổng quan WIFI 6</h1></summary>
+
+**AE đọc tại đây**
+
+
+- <a href="https://docs.google.com/presentation/d/1v9zengO4Ciw40EZKKQO4fFjzi5pomxTs/edit?usp=drive_web&ouid=112033577158894345062&rtpof=true" target="_blank">Giới thiệu Wifi 6_v2</a>.
+
+- <a href="https://docs.google.com/presentation/d/1Q3n9uYerd4FIC718bURkYe6nQxnnT475/edit#slide=id.p1" target="_blank">HDCV SWAP WIFI 6</a>.
+
+
+
+
+
+
+
+
+</details>
+
+
+
+
+
+
+<details>
+  <summary><h1>▶ <img src="https://didongviet.vn/dchannel/wp-content/uploads/2023/09/hinh-nen-dien-thoai-cute-didongviet-56.jpg" width="100px" >⭐1 số chú ý</h1></summary>
+
+**1 số APP khi đi làm**
+![Hình ảnh minh họa](Pic/image-149.png)
+
+**Telegram**
+![Hình ảnh minh họa](Pic/image-150.png)
+
+- Đăng nhập Telegram qua app hoặc web (https://web.telegram.org/)
+- Tạo group chat tương ứng với block của đơn vị
+*Chú ý nên copy tên block paste vào để tránh sai 
+- Add bot đúng với vùng quản lý của CN
+- Vd: Vùng 6 thì add PMP Assistant V6 - @TINPNC_Assistant_V6_Bot 
+*Chú ý add nhầm bot thuộc vùng khác sẽ không hoạt động
+- Tổng hợp danh sách block đã tạo gửi lại NamTH22@fpt.com; TinhPV9@fpt.com ; PhongNM4@fpt.com 
+CC: tuanna41@fpt.com; phuongnam.anhth@fpt.net 
+(tạm thời)
+
+
+
+
+
+
+
+
+
+
+
+ </details>
+
+
+
+
+
   <details>
   <summary><h1>▶ <img src="https://www.vietnamworks.com/hrinsider/wp-content/uploads/2023/12/anh-cute-001-1-1.jpg" width="100px" >⭐1 số lỗi cơ bản trên modem/Box</h1></summary>
 
@@ -39,6 +131,9 @@
 
 <details>
 <summary><h2>Box</h2></summary>
+
+- Đơn giản thì thay HDMI , nguồn box, BOX ,chuyển đổi cổng HDMI mà còn bị lỗi thì thay modem và test VLC
+- Test VLC với trường hợp giật xé hình
 
 
 
@@ -103,6 +198,10 @@
  
 <details>
   <summary><h1>▶ <img src="https://www.vietnamworks.com/hrinsider/wp-content/uploads/2023/12/hinh-de-thuong-don-gian-034.jpg" width="90px" >⭐Moderm</h1></summary>
+
+
+
+
 
 <details>
   <summary><h2>AP AX3000C</h2></summary>
@@ -271,7 +370,13 @@
 <details>
   <summary><h2>EdgeRouter X </h2></summary>
 
-- Laptop + pord 2 
+**File cấu hình chi tiết**
+
+
++  <a href="https://docs.google.com/spreadsheets/d/18sLsvctI6Vs5JpMFYA_jGuKLoKuN5YtT/edit#gid=323621189" target="_blank">Router X</a>.
+
+
+- Laptop + pord 0 
 - Nhớ đặt ip tĩnh;192.168.1.xxx
 
 ![Hình ảnh minh họa](Pic/image-77.png)
@@ -291,6 +396,15 @@
 ![Hình ảnh minh họa](Pic/image-85.png)
 
 - Cấu hình IPTV:
+
+![Hình ảnh minh họa](Pic/image-151.png)
+![Hình ảnh minh họa](Pic/image-152.png)
+![Hình ảnh minh họa](Pic/image-153.png)
+![Hình ảnh minh họa](Pic/image-154.png)
+![Hình ảnh minh họa](Pic/image-155.png)
+![Hình ảnh minh họa](Pic/image-156.png)
+![Hình ảnh minh họa](Pic/image-157.png)
+![Hình ảnh minh họa](Pic/image-158.png)
 
 
 
