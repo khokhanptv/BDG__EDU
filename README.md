@@ -59,6 +59,13 @@
 <details>
   <summary><h1>▶ <img src="https://didongviet.vn/dchannel/wp-content/uploads/2023/09/hinh-nen-dien-thoai-cute-didongviet-56.jpg" width="100px" >⭐1 số chú ý</h1></summary>
 
+
+- Vị trí cạnh modem (khoảng cách <3m, không vật cản), signal tối thiểu không thấp hơn -60dBm.
+- Vị trí xa modem, KH thường xuyên sử dụng mạng, signal tối thiểu không thấp hơn -70dBm.
+
+![Hình ảnh minh họa](Pic/image-167.png)
+
+
 **1 số APP khi đi làm**
 ![Hình ảnh minh họa](Pic/image-149.png)
 
@@ -312,7 +319,7 @@ CC: tuanna41@fpt.com; phuongnam.anhth@fpt.net
 </details>
 
 <details>
-  <summary><h2>Vigor 2926>>300b)</h2></summary>
+  <summary><h2>Vigor 2926>>300b</h2></summary>
 
 ![Hình ảnh minh họa](Pic/image-48.png)
 ![Hình ảnh minh họa](Pic/image-49.png)
@@ -411,7 +418,79 @@ CC: tuanna41@fpt.com; phuongnam.anhth@fpt.net
 
 </details>	
 
+<details>
+  <summary><h2> Nokia AC220i </h2></summary>
 
+**1.Video hướng dẫn up FW**
++  <a href="https://docs.google.com/presentation/d/1PwtLQzV0dgBr-Bu0Lk5oizVL-3cL75cc/edit?usp=drive_web&ouid=112033577158894345062&rtpof=true" target="_blank">Videos</a>.
+
+- Phần mềm putty
+
++  <a href="https://drive.google.com/file/d/1m8yQoolQzY_TRGXMWRS7VkuGSxJyuZYX/view?usp=sharing" target="_blank">PUTTY</a>.
+
+- Phần mềm GIT-Bash:tải 64-bit Git for Windows Setup.
+
+https://git-scm.com/download/win
+
+![Hình ảnh minh họa](Pic/image-165.png)
+
+
+
+
+
+`[LƯU Ý: Với những AP Nokia đã chạy firmware Wi-Fi Marketing, PayWiFi rồi - cắm nguồn lên AP hoạt động, có SSID, sáng 4 đèn (trừ đèn CTRL không sáng) thì KHÔNG làm các bước bên dưới nữa, hãy liên hệ CảnhNX để được hỗ trợ up qua firmware standalone]`
+ 
+1.	Xác định địa chỉ IP của AP. Có thể dùng phần mềm ip advanced scanner để quét IP trong mạng LAN đang sử dụng. 
+2.	Sử dụng phần mềm Putty hoặc SecureCRT để SSH vào IP của AP Nokia (Link tải Putty Putty hoặc link tải SecureCRT Portable SecureCRT) Tải trước tool để gen pass của AP Nokia tại đây Git-bash Only Windows 64bit.
+●	User: apadmin 
+●	Pass: Admin12# (Nếu truy cập pass này báo sai, thử pass NokiaAP#15 hoặc NokiaAP#19 hoặc NokiaAP#20 hoặc NokiaAP#21, nếu vẫn báo sai pass thì reset default AP và dùng lại pass mặc định là Admin12# - giữ nút reset khoảng 10s rồi thả ra, các đèn LED trên AP Nokia chớp đỏ vài nhịp và reboot thì thành công) 
+3.	Sau khi SSH vào thiết bị thành công, sử dụng lệnh “show eid” để tìm số SN và MAC để gen password enable và pass root. [Nếu có AP thì xem MAC và số SN phía sau AP - Không cần phải show trên giao diện SSH]
+![Hình ảnh minh họa](Pic/image-159.png)
+
+  
+4.	Sau khi có 2 thông tin trên, sử dụng tool git-bash.exe gen pass enable và pass root như sau: (Link tải phần mềm Git Git-bash) [Chỉ chạy được trên máy tính chạy Windows phiên bản 64bit] [Không tải Git trên mạng]
+●	Cú pháp trên Git-bash để gen pass: MAC viết thường, số SN viết IN HOA
+./nokia.sh 20:78:52:dc:0f:e0 NH192103503
+●	Trong đó phần MAC và số SN thay đổi theo từng thiết bị cụ thể (LƯU Ý MAC viết thường, số SN viết in hoa)
+![Hình ảnh minh họa](Pic/image-160.png)
+
+  
+5.	Sau khi có pass enable và pass root, tiến hành gõ lệnh “enable” trên giao diện SSH vào thiết bị đang cấu hình và paste pass enable vào, và gõ tiếp lệnh “shell” để enable user root lên, sau đó exit session với user apadmin. 
+![Hình ảnh minh họa](Pic/image-161.png)
+
+  
+6.	[Nếu AP Nokia liên tục bị reboot, không kịp thời gian để cài đặt, thì sử dụng lệnh này để ngăn chặn việc reboot của AP] SSH lại session mới với username: root, và pass root gen được ở tool gen pass, sau đó paste lệnh này để ngắt việc AP tự động reboot liên tục sau khi nhận IP (Copy + bấm chuột phải vào giao diện SSH để paste hết cái dòng lệnh bên dưới) NẾU AP NOKIA KHÔNG REBOOT LIÊN TỤC, THÌ KHÔNG CẦN DÙNG LỆNH NÀY
+mv /sbin/reboot /sbin/rebootb
+
+7.	Sau khi AP hết reboot, SSH lại vào IP của AP Nokia bằng user root - password root đã gen ở Git-bash, copy script bên dưới paste vào giao diện SSH cấu hình + enter để AP upgrade FW mới và đăng ký lên controller (tự động hoàn toàn) (Copy + bấm chuột phải vào giao diện SSH để paste hết cái dòng lệnh bên dưới)
+echo "nameserver 8.8.8.8" > /etc/resolv.conf 
+(dùng lệnh này để đổi DNS cho AP nếu gặp tình huống không phân giải được tên miền)
+curl -k http://cpek.fpt.vn/download-public/nokia/upgrade-ftel.sh -o /tmp/upgrade && sh /tmp/upgrade 
+(lệnh curl này để tải và upload firmware cho Nokia - Nếu lệnh này không chạy, thì dùng lệnh wget ở dưới)
+
+LƯU Ý: VỚI NHỮNG AP NÀO KHI CẤU HÌNH LỆNH curl -k …. ở trên mà nó báo lỗi “-ash: curl: not found” thì sử dụng lệnh này để thay thế: (Chỉ sử dụng nếu lệnh bên trên báo lỗi curl: not found)
+![Hình ảnh minh họa](Pic/image-162.png)
+ 
+wget http://cpek.fpt.vn/download-public/nokia/upgrade-ftel.sh -O /tmp/upgrade && sh /tmp/upgrade
+
+![Hình ảnh minh họa](Pic/image-163.png)
+![Hình ảnh minh họa](Pic/image-164.png)
+
+  
+  
+NHƯ VẬY LÀ ĐÃ HOÀN TẤT, PHẦN CÒN LẠI ANH EM CẤU HÌNH AP NOKIA Ở MODE STANDALONE THEO HƯỚNG DẪN
+
+
+
+**2.Cấu hình NOKIA  làm AP**
+- - <a href="https://drive.google.com/file/d/1q4_V5EDinHooumL83R5elmRDaFxMxKdc/view?usp=sharing" target="_blank">NOKIA</a>.
+
+
+
+
+
+
+</details>	 
 
 <details>
   <summary><h2>AC1000F</h2></summary>
@@ -496,6 +575,8 @@ CC: tuanna41@fpt.com; phuongnam.anhth@fpt.net
 
 <details>
   <summary><h2>AC1200H</h2></summary>
+
+- Mở pord upstream nối từ lan modem chính tới lan 3 AC1200H
 
 ![Hình ảnh minh họa](Pic/image-131.png)
 ![Hình ảnh minh họa](Pic/image-132.png)
